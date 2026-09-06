@@ -61,9 +61,7 @@ title('Frequency Response of FIR LPF using Rectangular Window');
 
 # MANUAL CALCULATION :
 <img width="1600" height="1539" alt="WhatsApp Image 2026-09-06 at 10 32 21 AM" src="https://github.com/user-attachments/assets/841d4c68-3c00-4f4c-b381-873f23a5ebc3" />
-
 <img width="910" height="1599" alt="WhatsApp Image 2026-09-06 at 10 32 36 AM" src="https://github.com/user-attachments/assets/bb9b8afd-fadc-47b0-bf51-16060951040f" />
-
 <img width="980" height="1598" alt="WhatsApp Image 2026-09-06 at 10 33 22 AM" src="https://github.com/user-attachments/assets/d47ad01c-d8e7-4fef-b5d1-c33c41b5ecfe" />
 
 
